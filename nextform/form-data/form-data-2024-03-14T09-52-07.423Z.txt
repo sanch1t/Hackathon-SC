@@ -1,0 +1,11 @@
+{
+  "name": "Sanchit",
+  "email": "ss6271@srmist.edu.in",
+  "country": "",
+  "dob": "11111-11-11",
+  "aadharNumber": "111111111111",
+  "address": "Home",
+  "incomeRange": "1",
+  "employmentType": "2",
+  "terms": true
+}

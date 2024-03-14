@@ -1,0 +1,11 @@
+{
+  "name": "Sanchit",
+  "email": "sanchitsingh1503@gmail.com",
+  "country": "",
+  "dob": "1111-11-11",
+  "aadharNumber": "111111111111",
+  "address": "1",
+  "incomeRange": "1",
+  "employmentType": "2",
+  "terms": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Chutiya Ayansh",
+  "email": "sanchitsingh1503@gmail.com",
+  "country": "",
+  "dob": "8920-09-15",
+  "aadharNumber": "111111111111",
+  "address": "Home",
+  "incomeRange": "2",
+  "employmentType": "2",
+  "terms": true
+}
